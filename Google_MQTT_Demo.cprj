@@ -3,7 +3,8 @@
   <created timestamp="2020-07-17T17:12:54" tool="cbuildgen 0.9.0"/>
 
   <info isLayer="false">
-    <description>Automatic generated project</description>
+    <name>Google MQTT Demo</name>
+    <description>This demo application connects to Google Cloud IoT through MQTT and publishes messages.</description>
     <category>Board, Cloud, IoT, RTOS, Socket</category>
     <keywords>B-L475E-IOT01A, Board, FreeRTOS, Google, MQTT, RTOS, Socket, WiFi</keywords>
     <license>Apache 2.0, BSD 3-Clause, EPL 1.0</license>
